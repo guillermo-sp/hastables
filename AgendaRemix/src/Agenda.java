@@ -6,7 +6,8 @@ public class Agenda {
     static Scanner teclado = new Scanner(System.in);
     static int opcion = 0;
 
-    //hola
+   //wenas
+    //cao
     public static void main(String[] args) {
         agenda2 listaAgenda = new agenda2();
         do {
